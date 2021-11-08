@@ -11,7 +11,7 @@ function Logar(){
     alert("usuario e senha validos");
 
 
-    windows.location.href = "index.html";
+    window.location.href = "login.html";
    
 
     } else
